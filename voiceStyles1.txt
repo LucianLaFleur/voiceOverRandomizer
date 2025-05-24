@@ -1,0 +1,231 @@
+abrupt
+aged
+aggressive
+aloof
+amusing
+angry
+animated
+annoying
+antagonistic
+approachable
+articulate
+athletic
+attentive
+attitude
+attractive
+authentic
+authoritative
+awkward
+believable
+bilingual
+biting
+bold
+booming
+bossy
+brave
+broken speech
+brooding
+bubbly
+burly
+calm
+calming
+caring
+cartoon
+casual
+charismatic
+child-like
+chipper
+cocky
+comforting
+commanding
+concerned
+condescneding
+confessional
+confident
+confused
+conversaitonal
+cool
+corporate
+country
+crackly
+creepy
+cute
+cynical
+dangerous
+deadpan
+deep
+defeated
+demonic
+ditzy
+dynamic
+easygoing
+eccentric
+edgy
+educational
+egotistical
+emotional
+enchanting
+endearing
+energetic
+engaging
+entheusiastic
+entitled
+evil
+exaggerated
+excitable
+excited
+exhausted
+explosive
+extreme
+fast paced
+feminine
+flirty
+folksy
+forceful
+freindly
+frightened
+funny
+geeky / nergy
+genuine
+girly/Girlish
+gravelly
+gritty
+grizzled
+guttural
+happy
+happy go lucky
+hard sell
+helpful
+heroic
+high energy
+high pitched
+high strung
+hip
+hip hop
+holiday
+humorous
+husky
+hyper
+ignorant
+imaging
+immature
+impatient
+informative
+injured
+inquisitive
+inspirational
+intellectual
+intelligent
+intimidating
+jovial
+know it all
+knowedgable 
+laid back
+lazy
+low pitched
+luxurious
+lyrical
+mature
+measured
+medical
+mellow
+melodramatic
+midlife
+mischiveous
+monotone 
+moody
+motivational
+movie trailer
+multilingual 
+mysterious
+narrator
+nasal 
+natural 
+nonchalant
+nuturing 
+old time radio
+ominous
+over the top
+panicky
+passive
+passive aggressive
+perky
+personable
+persuasive
+playful
+political
+pompous
+posh
+professional
+professorial
+proud
+quirky
+radio
+raspy
+reassuring
+relatable
+relaxed
+resonant
+retail
+retro
+reverent
+robotic
+romantic
+royal 
+rugged
+sad 
+sarcastic
+sassy
+saucy
+scary
+scientific
+serious
+sheepish
+shy
+sick sincere
+singing
+skeptical
+sketchy
+sleazy
+slow paced
+smiling
+smooth
+snarky
+snobby
+softspoken
+soothing
+spacey
+spooky
+squeaky
+stern
+stodgy
+straightforward
+strong
+stutter
+submissive
+sultry
+sweet sympathetic
+technical
+terrified
+thoughtful
+timid tired
+toothless
+tough
+translation
+trustworthy
+uncomfortable
+understated
+upbeat
+uplifting
+upper class
+uptight
+velvety
+versatile
+Voice of God
+wacky
+warm 
+whimsical 
+wimp
+witty
+worried
+youthful

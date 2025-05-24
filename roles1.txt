@@ -1,0 +1,154 @@
+action star 
+airhead
+alien
+alpha male
+announcer
+annoying kid
+aristocrat
+aspiring artist
+athlete
+auctioneer
+award acceptance
+baby
+banker
+barber shop quartet
+biker
+boss
+brat
+buddy
+bully
+Business Man
+Business Woman
+car salesman
+carnival Barker
+characters
+cheerleader
+chef
+child
+clown
+coach
+construction worker
+country music star
+cowboy
+cowgirl
+criminal
+damsel in distress
+demonstrator
+detective
+devil
+diva
+DJ
+doctor
+drill sergeant
+drunk
+dude
+elf
+everyman
+evil queen
+executive
+fairy godmother
+family man
+farmer
+fighter pilot
+flirt
+frat boy
+game show host
+gangster
+geek
+generation x
+generation y
+girl next door
+gnome
+Grandfather
+grandmother
+grumpy old man
+guy next door
+heckler
+henchman
+hero
+hillbilly
+hip hop
+hippie (hippy)
+hipster
+hobbit
+homemaker
+Host/Interviewer
+husband
+impressions
+instructor
+interviewer
+IT Guy
+jerk 
+judge
+kid next door
+lawyer
+leprechaun
+lone ranger
+mad scientist
+millennial
+misunderstood villain
+mobster
+monster
+mother
+motivational speaker
+narrator
+nerd
+newscaster
+old lady
+old man
+patient
+phone operator 
+pirate
+playful
+police officer
+politician
+preacher
+presenter
+priest
+professor
+prospector
+real person
+regular joe
+reporter 
+robot 
+rock star
+roman gladiator
+salesperson
+samurai
+school boy
+scientist
+singer
+slacker
+smoker
+snob
+soccer mom
+soldier
+southern belle
+southern gentleman
+spokesperson
+sportscaster
+starlet storyteller
+student
+superhero
+surfer dude
+teacher
+teacher's pet
+teenager
+therapist
+toddler
+tomboy
+tourist
+trolls
+trucker
+tv host
+upper class
+valley girl
+vampire
+villain
+warrior
+werewolf
+wicked witch
+wizard
+wrestler
+yuppie
+zombie
