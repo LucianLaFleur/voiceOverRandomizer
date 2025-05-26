@@ -85,9 +85,9 @@ forceful
 freindly
 frightened
 funny
-geeky / nergy
+geeky / nerdy
 genuine
-girly/Girlish
+girly / Girlish
 gravelly
 gritty
 grizzled
@@ -182,7 +182,8 @@ scientific
 serious
 sheepish
 shy
-sick sincere
+sick 
+sincere
 singing
 skeptical
 sketchy
@@ -204,7 +205,8 @@ strong
 stutter
 submissive
 sultry
-sweet sympathetic
+sweet 
+sympathetic
 technical
 terrified
 thoughtful
