@@ -1,0 +1,29 @@
+telephone / avr
+kids / family
+events / event promotion
+recreation / travel sales
+education programs / certifications / universities 
+food/beverage ad
+automotive ad
+retail ad (clothing, everyday goods, store chains)
+construction / tool ad
+dialogue commercial
+movie trailer / video game trailer
+corperate training/ informaitonal
+technology retail
+technology education  
+travel documentary
+MC / announcer / public speaking address
+Health / wellness (+ medical retail)
+Medical (explainer / informational / PSA)
+explainers / DIY / manuals / app software guides
+audio guides (like audio tour in museum or park)
+biography / historical documentary
+eLearning (generic)
+*religious?
+*self-help?
+*Guided meditation / ASMR?
+*audiobooks?
+*animation / video games?
+*podcasting?
+*real estate / land / apartment sales?
