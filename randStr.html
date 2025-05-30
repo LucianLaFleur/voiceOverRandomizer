@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="randStr.css">
+    <title>Detail Randomizer</title>
+</head>
+<body>
+    <div id="navbarContainer"></div>
+    <div class="container">
+        <div class="detail-div" id="div-1">
+            <h3>Category / Read Type</h3>
+            <button onclick="randomizeDetail('category-type')">Randomize</button>
+            <p id="category-type">Commercial</p>
+        </div>
+        <div class="detail-div" id="div-2">
+            <h3>Primary Style</h3>
+            <button onclick="randomizeDetail('style1')">Randomize</button>
+            <p id="style1">(none)</p>
+        </div>
+        <div class="detail-div" id="div-3">
+            <h3>Secondary Style</h3>
+            <button onclick="randomizeDetail('style2')">Randomize</button>
+            <p id="style2">(none)</p>
+        </div>
+        <div class="detail-div" id="div-4">
+            <h3>Mood</h3>
+            <button onclick="randomizeDetail('mood-arr')">Randomize</button>
+            <p id="mood-arr">(none)</p>
+        </div>
+        <div class="detail-div" id="div-5">
+            <h3>Role / Persona</h3>
+            <button onclick="randomizeDetail('role-persona')">Randomize</button>
+            <p id="role-persona">(none)</p>
+        </div>
+    </div>
+
+    <p id="default-str">[!] Manual Keyword Entry (to end): <span id="string-tail" contenteditable="true"> 
+        ... authentic, real, believeable
+    </span></p>
+    <div id="controls">
+        <button onclick="randomizeAll()">Randomize All</button>
+        <button id="save-button" onclick="saveString()">Save String</button>
+    </div>
+    <hr>
+    <h3 class="mini-header"> Current output string: </h3>
+    <p id="output-string">(none generated)</p>
+    <hr>
+    <h3 class="mini-header"> Saved output strings: </h3>
+    <ul id="saved-strings"></ul>
+
+    <script src="randStr.js"></script>
+
+</body>
+</html>
