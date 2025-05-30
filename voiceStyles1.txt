@@ -35,6 +35,7 @@ casual
 charismatic
 child-like
 chipper
+classy
 cocky
 comforting
 commanding
@@ -195,6 +196,7 @@ snarky
 snobby
 softspoken
 soothing
+sophisticated
 spacey
 spooky
 squeaky
@@ -211,6 +213,7 @@ technical
 terrified
 thoughtful
 timid tired
+tired
 toothless
 tough
 translation
